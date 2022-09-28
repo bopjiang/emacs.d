@@ -1,7 +1,4 @@
-;; -*- lexical-binding: t -*-
-(setq debug-on-error t)
-
-;;; init.el --- Load the full configuration
+;;; init.el --- Load the full configuration -*- lexical-binding: t -*-
 ;;; Commentary:
 
 ;; This file bootstraps the configuration, which is divided into
